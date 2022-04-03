@@ -1,0 +1,23 @@
+.cabecalho-moda {
+    background-color: #BB86FC;
+    color: #ffffff;
+    padding: 30px;
+}
+
+.cabecalho-casa {
+    background-color: #00C4B4;
+    color: #ffffff;
+    padding: 30px;
+}
+
+.th, .informacoes-produtos {
+    align-items: center;
+    justify-content: center;
+    padding: 6px;
+}
+
+.produtos-moda, .produtos-casa {
+    background-color: #424250;
+    color: #ffffff;
+}
+
